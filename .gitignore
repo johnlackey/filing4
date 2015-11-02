@@ -1,0 +1,16 @@
+/ant-composer.xml
+/ant.out
+/build/api
+/build/code-browser
+/build/composer.phar
+/build/coverage
+/build/logs
+/build/pdepend
+/config/app.php
+/logs/*
+/nbproject/private
+/phpunit.out
+/src/autoload.php
+/tests/autoload.php
+/tmp/*
+/vendor/*
